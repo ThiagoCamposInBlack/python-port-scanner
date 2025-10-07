@@ -1,20 +1,6 @@
 # Python Port Scanner 🐍
 
-![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
 Um scanner de portas rápido e multi-threaded, desenvolvido em Python, projetado para identificar portas TCP abertas em um host de destino. Este projeto foi criado como uma ferramenta prática para estudos em segurança da informação e desenvolvimento de redes.
-
-## 📋 Índice
-
--   [Visão Geral](#-visão-geral)
--   [Principais Funcionalidades](#-principais-funcionalidades)
--   [Demonstração](#-demonstração)
--   [Tecnologias Utilizadas](#-tecnologias-utilizadas)
--   [Pré-requisitos](#-pré-requisitos)
--   [Como Instalar e Executar](#-como-instalar-e-executar)
--   [Como Funciona](#-como-funciona)
--   [Licença](#-licença)
 
 ## 🔭 Visão Geral
 
